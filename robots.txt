@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lamizb.github.io/IJg/sitemap.IJg.gz
